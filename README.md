@@ -4,7 +4,7 @@ Computer Graphics project of implementing a 2D Tetris
 Created by Xiangru Zhou
 ****************************************************
 
-My Game of Tetris! (DO NOT COPY IT FOR SCHOOL HOMEWORK!)
+My Game of Tetris! (DO NOT COPY IT FOR SCHOOL HOMEWORK! The professor knows everything, seriously!)
 
 ****************************************************
 7 different falling shapes are composed of 4 squares. 
